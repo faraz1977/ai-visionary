@@ -1,0 +1,7 @@
+{
+  "name": "Visionary AI - Pro Image Studio",
+  "description": "A premium B&W themed SaaS AI platform for watermark removal, background stripping, and image enhancement using cutting-edge Gemini models.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
